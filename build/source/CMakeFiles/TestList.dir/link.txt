@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -std=c++14 -Wall -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/TestList.dir/TestList.cpp.o CMakeFiles/TestList.dir/vec2.cpp.o CMakeFiles/TestList.dir/circle.cpp.o  -o ../TestList  -lm 
